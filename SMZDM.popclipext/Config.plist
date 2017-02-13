@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Actions</key>
+	<array>
+		<dict>
+			<key>Image File</key>
+			<string>smzdm.png</string>
+			<key>Regular Expression</key>
+			<string>(?s)^.{1,1900}$</string>
+			<key>Title</key>
+			<string>SMZDM</string>
+			<key>URL</key>
+			<string>http://search.smzdm.com/?s={popclip text}</string>
+		</dict>
+	</array>
+	<key>Apps</key>
+	<array>
+		<dict>
+			<key>Link</key>
+			<string>http://www.smzdm.com/</string>
+			<key>Name</key>
+			<string>SMZDM</string>
+		</dict>
+	</array>
+	<key>Credits</key>
+	<array>
+		<dict>
+			<key>Name</key>
+			<string>Van Pan</string>
+			<key>Link</key>
+			<string>https://github.com/iVanPan</string>
+		</dict>
+	</array>
+	<key>Extension Description</key>
+	<string>Search for products on SMZDM.</string>
+	<key>Extension Identifier</key>
+	<string>com.vanpan.popclip.extension.smzdm</string>
+	<key>Extension Name</key>
+	<string>SMZDM</string>
+	<key>Version</key>
+	<integer>2</integer>
+</dict>
+</plist>
