@@ -8,6 +8,10 @@ For more information,please visit [smzdm.com](http://www.smzdm.com/zhaopin/about
 
 Make sure you've installed [PopClip](https://pilotmoon.com/popclip/), download the `.popclipextz` or `.popclipext` files and double click.
 
+## ScreenShot
+![ScreenShot](https://github.com/iVanPan/PopClip-Extension-SMZDM/blob/master/screenshot.png)
+
+
 ## License
 
 This extension is published under the MIT License (see [LICENSE](https://github.com/iVanPan/PopClip-Extension-SMZDM/blob/master/LICENSE)) for Detail
