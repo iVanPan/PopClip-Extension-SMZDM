@@ -1,4 +1,4 @@
-#[PopClip](https://pilotmoon.com/popclip/) Extensions for [SMZDM](http://www.smzdm.com/)      
+#[PopClip](https://pilotmoon.com/popclip/) Extension for [SMZDM](http://www.smzdm.com/)      
 
 ## Introduction
 In China，SMZDM.COM is a well-known cost-effective online shopping products recommended site.
@@ -14,7 +14,7 @@ Make sure you've installed [PopClip](https://pilotmoon.com/popclip/), download t
 
 ## License
 
-This extension is published under the MIT License (see [LICENSE](https://github.com/iVanPan/PopClip-Extension-SMZDM/blob/master/LICENSE)) for Detail
+This extension is published under the MIT License (see [LICENSE](https://github.com/iVanPan/PopClip-Extension-SMZDM/blob/master/LICENSE)) for detail
 
 ## Credits
 This extension created by [Van](https://github.com/iVanPan)
