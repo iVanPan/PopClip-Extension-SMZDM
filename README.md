@@ -17,5 +17,5 @@ Make sure you've installed [PopClip](https://pilotmoon.com/popclip/), download t
 This extension is published under the MIT License (see [LICENSE](https://github.com/iVanPan/PopClip-Extension-SMZDM/blob/master/LICENSE)) for Detail
 
 ## Credits
-This extension created By [Van](https://github.com/iVanPan)
+This extension created by [Van](https://github.com/iVanPan)
 
